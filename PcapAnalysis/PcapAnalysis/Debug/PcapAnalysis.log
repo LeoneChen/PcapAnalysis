@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  PcapAnalysis.cpp
+d:\课程\网络行为学\第一次作业\网络行为学第一次作业\pcapanalysis\pcapanalysis\pcapanalysis.cpp(637): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+d:\课程\网络行为学\第一次作业\网络行为学第一次作业\pcapanalysis\pcapanalysis\pcapanalysis.cpp(942): warning C4018: “<”: 有符号/无符号不匹配
+  PcapAnalysis.vcxproj -> D:\课程\网络行为学\第一次作业\网络行为学第一次作业\PcapAnalysis\Debug\PcapAnalysis.exe
